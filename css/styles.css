@@ -7390,7 +7390,7 @@ textarea.form-control-lg {
 }
 
 .bg-primary {
-  background-image: url(/assets/img/1494.jpg) !important;
+  background-image: url('/assets/img/1494.jpg') !important;
   background-size: cover;
   opacity: 85%;
   
