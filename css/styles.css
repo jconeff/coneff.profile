@@ -49,6 +49,23 @@
   }
 }
 
+
+.email{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: auto;
+  padding-bottom: auto;
+}
+
+.email2{
+  text-align: center;
+  padding-top: 20px;
+  font-weight: bold;
+}
+
+
+
 body {
   margin: 0;
   font-family: var(--bs-font-sans-serif);
